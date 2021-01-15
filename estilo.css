@@ -13,3 +13,10 @@ h1{
   background-color:#ffbb00;
   
 }
+
+.triangle{
+  width: 30px;
+  height:30px;
+  padding: 2px;
+  background-color:#00ddff;
+  }
